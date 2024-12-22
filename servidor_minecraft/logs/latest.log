@@ -555,3 +555,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [22Dec2024 06:08:32.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Killed killer200_50]
 [22Dec2024 06:10:44.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: killer200_50 fell out of the world
 [22Dec2024 06:10:44.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Killed killer200_50]
+[22Dec2024 06:10:58.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: The difficulty has been set to Hard]
+[22Dec2024 06:11:52.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Teleported killer200_50 to 166.500000, 83.500000, -22.500000]
+[22Dec2024 06:12:28.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Teleported killer200_50 to 234.500000, 69.500000, -103.500000]
+[22Dec2024 06:13:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: killer200_50 fell out of the world
+[22Dec2024 06:13:00.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Killed killer200_50]
+[22Dec2024 06:13:10.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Set own game mode to Survival Mode]
+[22Dec2024 06:13:27.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Set the time to 1000]
+[22Dec2024 06:13:39.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Set own game mode to Creative Mode]
+[22Dec2024 06:16:25.584] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: killer200_50 lost connection: Timed out
+[22Dec2024 06:16:25.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: killer200_50 left the game
+[22Dec2024 06:16:25.631] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

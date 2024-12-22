@@ -1,13 +1,46 @@
 {
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-22 06:14:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-22 06:15:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-22 06:15:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-22 06:03:39 +0000"
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-22 06:15:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank": {
+    "criteria": {
+      "has_item": "2024-12-22 06:14:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-22 06:10:08 +0000",
       "minecraft:birch_forest": "2024-12-22 06:03:40 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-22 06:07:43 +0000",
+      "minecraft:river": "2024-12-22 06:07:30 +0000",
       "minecraft:stony_shore": "2024-12-22 06:03:58 +0000",
       "minecraft:grove": "2024-12-22 06:06:00 +0000",
       "minecraft:forest": "2024-12-22 06:05:18 +0000",
