@@ -1,7 +1,17 @@
 {
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-22 06:03:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2024-12-22 03:51:22 +0000"
+      "minecraft:birch_forest": "2024-12-22 06:03:40 +0000",
+      "minecraft:stony_shore": "2024-12-22 06:03:58 +0000",
+      "minecraft:grove": "2024-12-22 06:06:00 +0000",
+      "minecraft:forest": "2024-12-22 06:05:18 +0000",
+      "minecraft:ocean": "2024-12-22 06:05:38 +0000"
     },
     "done": false
   },
