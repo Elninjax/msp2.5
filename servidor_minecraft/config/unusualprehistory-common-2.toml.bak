@@ -1,0 +1,9 @@
+screen_shake = true
+
+nfig
+#All screen shakes
+screen_shake = true
+#Screen shake brachi
+screen_shake_brachi = true
+screen_shake_brachi_range = 10.0
+

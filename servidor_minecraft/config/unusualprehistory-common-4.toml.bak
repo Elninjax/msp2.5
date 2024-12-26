@@ -21,12 +21,10 @@ brachi_experimental_footprints = false
 screen_shake_rex = true
 #Screen shake rex range
 screen_shake_rex_range = 10.0
-#Screen shake rex amplifier
 screen_shake_rex_amplifier = 1
+en_shake_rex_amplifier = 1
 #Rex sound volume
 rex_sound_volume = 0.5
-dino_natural_spawn = false
-
-on or off
+#Turn natural dino spawning on or off
 dino_natural_spawn = false
 
