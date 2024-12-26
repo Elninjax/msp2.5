@@ -5149,3 +5149,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 18:16:13.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: killer200_50 fell out of the world
 [26Dec2024 18:16:13.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Killed 171 entities]
 [26Dec2024 18:16:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [killer200_50: Set the time to 1000]
+[26Dec2024 18:21:12.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:21:12.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:26:12.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:26:12.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
